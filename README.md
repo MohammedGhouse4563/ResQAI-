@@ -1,0 +1,3 @@
+[PSN003]Early Warning & Smart Resource Allocation System
+
+ResQAI is an AI-powered disaster management platform that combines live maps, weather data, and sensor information to predict high-risk disaster zones and support faster emergency response. It identifies potential impact areas, prioritizes critical locations, and intelligently allocates resources such as ambulances, shelters, food, and rescue teams. The system provides authorities with a real-time dashboard for early warning, risk visualization, and optimized resource deployment, helping reduce response time and improve disaster preparedness.
