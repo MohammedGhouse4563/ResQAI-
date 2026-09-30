@@ -1,0 +1,6 @@
+{
+  "name": "ResQAI — Predict the Need. Position the Response",
+  "description": "AI-powered disaster intelligence and emergency response platform combining predictive spread, resource gap forecasting, pre-positioning, and citizen safety.",
+  "requestFramePermissions": ["geolocation", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

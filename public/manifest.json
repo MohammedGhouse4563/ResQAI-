@@ -1,0 +1,23 @@
+{
+  "short_name": "ResQAI",
+  "name": "ResQAI — Predict the Need. Position the Response",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any",
+      "purpose": "any"
+    },
+    {
+      "src": "/app-icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512",
+      "purpose": "maskable any"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#020617",
+  "theme_color": "#e11d48",
+  "display": "standalone",
+  "orientation": "portrait"
+}
